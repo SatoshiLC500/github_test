@@ -1,0 +1,58 @@
+body {
+  font-family: Comic Sans MS;
+  background-color: purple;
+  color: white;
+  font-size: 16px;
+  margin: 30px;
+  text-align: justify;
+}
+h1{
+  text-align: center;
+}
+a {
+  color: white;
+}
+h3{
+  font-size: 20px;
+}
+.pfp{
+  float: right;
+  padding: 20px;
+  width: 20%;
+  height: 20%;
+}
+.outro{
+  text-align: right;
+  margin-right: 75px;
+}
+table{
+  margin: auto;
+  border: 5px solid white;
+  border-collapse: collapse;
+  
+}  
+td, th {
+    padding: 6px;
+    text-align: center;
+  }
+  th{
+    text-align: center;
+  }
+  
+  tr:nth-child(odd) {
+    background-color: #ff001e;
+  }
+  tr:nth-child(even) {
+    background-color: #0055a8;
+  }
+.pics{
+  max-width: 500px;
+  max-height: 300px;
+  padding: 10px;
+}
+.pics2{
+  max-width: 500px;
+  max-height: 300px;
+  padding: 10px;
+  margin-left: 394px;
+}
